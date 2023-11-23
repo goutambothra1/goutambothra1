@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goutambothra1" alt="goutambothra1" /></a> </p>
 
-- 🌱 I’m currently learning **Android using Java and XML**
+- 🌱 I’m currently Focusing on **Machine Learning**
 
 - 📫 How to reach me **jaingautam28@gmail.com**
 
